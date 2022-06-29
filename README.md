@@ -1,2 +1,2 @@
 # rivers-prometheus-exporter
-Prometheus exporter for river levels
+Prometheus exporter for water levels in rivers in Ireland
